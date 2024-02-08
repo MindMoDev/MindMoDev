@@ -1,4 +1,4 @@
-<h1 style = "color: greenM;">MindgrowthMo</h1>
+<h1 style = "color: green;">MindgrowthMo</h1>
 
 
 - 👋 Hi, I’m @MindMoDev
