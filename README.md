@@ -1,5 +1,5 @@
-<h1 align="center">I'm Mindgrowthmo</h1>
-<h3 align="center">A passionate young developer</h3>
+<h1 id="title" align="center">I'm Mindgrowthmo</h1>
+<h3 id="subtitle" align="center">A passionate young developer</h3>
 
 - 👋 Hi, I’m @MindMoDev
 - 👀 I’m interested in Blockchain Technologie 
