@@ -1,7 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/28/cd/b7/28cdb75b1cb04ffbadb7c639609e21ba.gif)](https://rishavchanda.io)
 <h1 id="title" align="center">I'm Mindgrowthmo</h1>
 <h3 id="subtitle" align="center">A passionate young developer</h3>
-[![MasterHead[https://gifdb.com/images/high/lofi-aesthetic-moon-only-yesterday-anime-we3yejip8415fszv.gif](https://i.pinimg.com/originals/28/cd/b7/28cdb75b1cb04ffbadb7c639609e21ba.gif)">
 - 👋 Hi, I’m @MindMoDev
 - 👀 I’m interested in Blockchain Technologie 
 - 🌱 I’m currently learning Node.js
