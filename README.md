@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/lofi-aesthetic-moon-only-yesterday-anime-we3yejip8415fszv.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/e6/79/69/e6796926118db6352df42376db3e15d8.gif)](https://rishavchanda.io)
 <h1 id="title" align="center">I'm Mindgrowthmo</h1>
 <h3 id="subtitle" align="center">A passionate young developer</h3>
 - 👋 Hi, I’m @MindMoDev
