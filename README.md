@@ -1,4 +1,4 @@
-<img align = "center" alt="chilling" width="800" src="https://gifdb.com/images/high/lofi-aesthetic-moon-only-yesterday-anime-we3yejip8415fszv.gif">
+<img align = "center" alt="chilling" width="400" src="https://gifdb.com/images/high/lofi-aesthetic-moon-only-yesterday-anime-we3yejip8415fszv.gif">
 <h1 id="title" align="center">I'm Mindgrowthmo</h1>
 <h3 id="subtitle" align="center">A passionate young developer</h3>
 
