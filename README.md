@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/36/82/cc/3682ccb6188e4b220862b45b740a4c33.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/b2/aa/52/b2aa522878f8c88216c6d8e7b0da8e53.gif)](https://rishavchanda.io)
 <h1 id="title" align="center">I'm Mindgrowthmo</h1>
 <h3 id="subtitle" align="center">A passionate young developer</h3>
 - 👋 Hi, I’m @MindMoDev
