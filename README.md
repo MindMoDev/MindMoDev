@@ -5,7 +5,6 @@
 - 👀 I’m interested in Blockchain Technologie 
 - 🌱 I’m currently learning Node.js
 - 👨‍💻 All of my projects are available at **Incoming**
-- 😄 Pronouns: He/him
 
 
 <h3 align="left">Connect with me:</h3>
