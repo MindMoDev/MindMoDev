@@ -1,10 +1,10 @@
 [![MasterHead](https://i.pinimg.com/originals/b2/aa/52/b2aa522878f8c88216c6d8e7b0da8e53.gif)](https://rishavchanda.io)
 <h1 id="title" align="center">I'm Mindgrowthmo</h1>
 <h3 id="subtitle" align="center">A passionate young developer</h3>
-✨ Hi, I’m @MindMoDev
-🌐 I’m interested in Blockchain Technologies
-🚀 Currently exploring Web3 Development
-💻 Check out all of my projects here (Coming Soon)
+- ✨ Hi, I’m @MindMoDev
+- 🌐 I’m interested in Blockchain Technologies
+- 🚀 Currently exploring Web3 Development
+- 💻 Check out all of my projects here (Coming Soon)
 
 
 <h3 align="left">Connect with me:</h3>
