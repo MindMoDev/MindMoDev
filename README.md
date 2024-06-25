@@ -2,8 +2,11 @@
 <h1 id="title" align="center">I'm Mindgrowthmo</h1>
 <h3 id="subtitle" align="center">A passionate young developer</h3>
 - ✨ Hi, I’m @MindMoDev
+
 - 🌐 I’m interested in Blockchain Technologies
+
 - 🚀 Currently exploring Web3 Development
+
 - 💻 Check out all of my projects here (Coming Soon)
 
 
