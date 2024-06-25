@@ -3,7 +3,7 @@
 <h3 id="subtitle" align="center">A passionate young developer</h3>
 - 👋 Hi, I’m @MindMoDev
 - 👀 I’m interested in Blockchain Technologie 
-- 🌱 I’m currently learning Node.js
+- 🌱 Web3 Dev
 - 👨‍💻 All of my projects are available at **Incoming**
 
 
